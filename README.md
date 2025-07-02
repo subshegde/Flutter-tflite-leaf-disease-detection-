@@ -25,7 +25,3 @@ Benefits:
 Quick and easy diagnosis for farmers.
 Accessible tool to help manage crop health.
 This approach combines machine learning with Flutter to create a practical solution for identifying mango leaf diseases!
-
-
-https://github.com/user-attachments/assets/3a245f02-2b8b-4eb8-871e-fa26695d383b
-
